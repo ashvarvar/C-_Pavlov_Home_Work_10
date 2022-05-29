@@ -1,0 +1,15 @@
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\bin\Debug\net6.0\Task73.exe
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\bin\Debug\net6.0\Task73.deps.json
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\bin\Debug\net6.0\Task73.runtimeconfig.json
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\bin\Debug\net6.0\Task73.dll
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\bin\Debug\net6.0\Task73.pdb
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.csproj.AssemblyReference.cache
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.AssemblyInfoInputs.cache
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.AssemblyInfo.cs
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.csproj.CoreCompileInputs.cache
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.dll
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\refint\Task73.dll
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.pdb
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\Task73.genruntimeconfig.cache
+C:\Users\444\Desktop\учеба\C#\C#_Home_Work\Home_Work_10\Task73\obj\Debug\net6.0\ref\Task73.dll
